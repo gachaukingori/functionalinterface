@@ -30,4 +30,7 @@ public class _Streams {
                 .noneMatch(evenPredicate);
         System.out.println("contains no even " + containsNoEven);
     }
+
+
+
 }
